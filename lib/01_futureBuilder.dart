@@ -11,8 +11,8 @@ class Futurebuilder extends StatefulWidget {
 }
 
 class _FuturebuilderState extends State<Futurebuilder> {
-  // API
-// Suppose This is API Which provide This Application data from the backend
+// API
+// Consider This is API Which provide This Application data from the backend
   Future<int> futureCounter(number) async {
     await Future.delayed(const Duration(seconds: 3));
     return number + number;
