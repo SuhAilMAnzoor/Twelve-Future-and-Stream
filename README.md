@@ -1,6 +1,12 @@
 # twelve_future_and_stream
 
-Future and Stream Locally 
+Future and Stream Builder Locally 
+
+Future Builder
+This Flutter project demonstrates the use of FutureBuilder, one of the core Flutter widgets used for handling asynchronous operations such as API calls or backend data fetching.
+
+Stream Builder
+This Flutter example demonstrates how to use Streams and StreamBuilder to display real-time, continuously updating data in the UI.
 
 ## Getting Started
 
